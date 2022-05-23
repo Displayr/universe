@@ -1,0 +1,230 @@
+[
+    {
+        "package": "cleanNLP",
+        "url": "https://github.com/Displayr/cleanNLP"
+    },
+    {
+        "package": "dygraphs",
+        "url": "https://github.com/Displayr/dygraphs"
+    },
+    {
+        "package": "flipAnalysisOfVariance",
+        "url": "https://github.com/Displayr/flipAnalysisOfVariance"
+    },
+    {
+        "package": "flipAPI",
+        "url": "https://github.com/Displayr/flipAPI"
+    },
+    {
+        "package": "flipCHAID",
+        "url": "https://github.com/Displayr/flipCHAID"
+    },
+    {
+        "package": "flipChart",
+        "url": "https://github.com/Displayr/flipChart"
+    },
+    {
+        "package": "flipChartBasics",
+        "url": "https://github.com/Displayr/flipChartBasics"
+    },
+    {
+        "package": "flipChartTests",
+        "url": "https://github.com/Displayr/flipChartTests"
+    },
+    {
+        "package": "flipChartTests2",
+        "url": "https://github.com/Displayr/flipChartTests2"
+    },
+    {
+        "package": "flipChartTest3",
+        "url": "https://github.com/Displayr/flipChartTests3"
+    },
+    {
+        "package": "flipChartTest4",
+        "url": "https://github.com/Displayr/flipChartTests4"
+    },
+    {
+        "package": "flipChoice",
+        "url": "https://github.com/Displayr/flipChoice"
+    },
+    {
+        "package": "flipChoiceTests",
+        "url": "https://github.com/Displayr/flipChoiceTests"
+    },
+    {
+        "package": "flipData",
+        "url": "https://github.com/Displayr/flipData"
+    },
+    {
+        "package": "flipDevTools",
+        "url": "https://github.com/Displayr/flipDevTools"
+    },
+    {
+        "package": "flipDimensionReduction",
+        "url": "https://github.com/Displayr/flipDimensionReduction"
+    },
+    {
+        "package": "flipExampleData",
+        "url": "https://github.com/Displayr/flipExampleData"
+    },
+    {
+        "package": "flipFlip",
+        "url": "https://github.com/Displayr/flipFlip"
+    },
+    {
+        "package": "flipFormat",
+        "url": "https://github.com/Displayr/flipFormat"
+    },
+    {
+        "package": "flipGeoData",
+        "url": "https://github.com/Displayr/flipGeoData"
+    },
+    {
+        "package": "flipImputation",
+        "url": "https://github.com/Displayr/flipImputation"
+    },
+    {
+        "package": "flipMaxDiff",
+        "url": "https://github.com/Displayr/flipMaxDiff"
+    },
+    {
+        "package": "flipMultivariates",
+        "url": "https://github.com/Displayr/flipMultivariates"
+    },
+    {
+        "package": "flipPictographs",
+        "url": "https://github.com/Displayr/flipPictographs"
+    },
+    {
+        "package": "flipPlots",
+        "url": "https://github.com/Displayr/flipPlots"
+    },
+    {
+        "package": "flipQualtrics",
+        "url": "https://github.com/Displayr/flipQualtrics"
+    },
+    {
+        "package": "flipRegression",
+        "url": "https://github.com/Displayr/flipRegression"
+    },
+    {
+        "package": "flipRegressionTests",
+        "url": "https://github.com/Displayr/flipRegressionTests"
+    },
+    {
+        "package": "flipRevenueMetrics",
+        "url": "https://github.com/Displayr/flipRevenueMetrics"
+    },
+    {
+        "package": "flipStandardCharts",
+        "url": "https://github.com/Displayr/flipStandardCharts"
+    },
+    {
+        "package": "flipStartup",
+        "url": "https://github.com/Displayr/flipStartup"
+    },
+    {
+        "package": "flipStartup",
+        "url": "https://github.com/Displayr/flipStartup"
+    },
+    {
+        "package": "flipStatistics",
+        "url": "https://github.com/Displayr/flipStatistics"
+    },
+    {
+        "package": "flipTables",
+        "url": "https://github.com/Displayr/flipTables"
+    },
+    {
+        "package": "flipTextAnalysis",
+        "url": "https://github.com/Displayr/flipTextAnalysis"
+    },
+    {
+        "package": "flipTime",
+        "url": "https://github.com/Displayr/flipTime"
+    },
+    {
+        "package": "flipTransformations",
+        "url": "https://github.com/Displayr/flipTransformations"
+    },
+    {
+        "package": "flipTrees",
+        "url": "https://github.com/Displayr/flipTrees"
+    },
+    {
+        "package": "flipTURF",
+        "url": "https://github.com/Displayr/flipTURF"
+    },
+    {
+        "package": "flipU",
+        "url": "https://github.com/Displayr/flipU"
+    },
+    {
+        "package": "formattable",
+        "url": "https://github.com/Displayr/formattable"
+    },
+    {
+        "package": "htmlwidgets",
+        "url": "https://github.com/Displayr/htmlwidgets"
+    },
+    {
+        "package": "plotly",
+        "url": "https://github.com/Displayr/plotly"
+    },
+    {
+        "package": "rhtmlDendrogram",
+        "url": "https://github.com/Displayr/rhtmlDendrogram"
+    },
+    {
+        "package": "rhtmlDonut",
+        "url": "https://github.com/Displayr/rhtmlDonut"
+    },
+    {
+        "package": "rhtmlEchoLifecycle",
+        "url": "https://github.com/Displayr/rhtmlEchoLifecycle"
+    },
+    {
+        "package": "rhtmlHeatmap",
+        "url": "https://github.com/Displayr/rhtmlHeatmap"
+    },
+    {
+        "package": "rhtmlLabeledScatter",
+        "url": "https://github.com/Displayr/rhtmlLabeledScatter"
+    },
+    {
+        "package": "rhtmlMetro",
+        "url": "https://github.com/Displayr/rhtmlMetro"
+    },
+    {
+        "package": "rhtmlMoonplot",
+        "url": "https://github.com/Displayr/rhtmlMoonplot"
+    },
+    {
+        "package": "rhtmlPalmTrees",
+        "url": "https://github.com/Displayr/rhtmlPalmTrees"
+    },
+    {
+        "package": "rhtmlPictographs",
+        "url": "https://github.com/Displayr/rhtmlPictographs"
+    },
+    {
+        "package": "rhtmlSankeyTree",
+        "url": "https://github.com/Displayr/rhtmlSankeyTree"
+    },
+    {
+        "package": "rhtmlSlowWidget",
+        "url": "https://github.com/Displayr/rhtmlSlowWidget"
+    },
+    {
+        "package": "rhtmlStatefulWidget",
+        "url": "https://github.com/Displayr/rhtmlStatefulWidget"
+    },
+    {
+        "package": "rhtmlTemplate",
+        "url": "https://github.com/Displayr/rhtmlTemplate"
+    },
+    {
+        "package": "verbs",
+        "url": "https://github.com/Displayr/verbs"
+    }
+]
