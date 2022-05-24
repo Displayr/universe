@@ -36,11 +36,11 @@
         "url": "https://github.com/Displayr/flipChartTests2"
     },
     {
-        "package": "flipChartTest3",
+        "package": "flipChartTests3",
         "url": "https://github.com/Displayr/flipChartTests3"
     },
     {
-        "package": "flipChartTest4",
+        "package": "flipChartTests4",
         "url": "https://github.com/Displayr/flipChartTests4"
     },
     {
@@ -196,8 +196,8 @@
         "url": "https://github.com/Displayr/rhtmlMetro"
     },
     {
-        "package": "rhtmlMoonplot",
-        "url": "https://github.com/Displayr/rhtmlMoonplot"
+        "package": "rhtmlMoonPlot",
+        "url": "https://github.com/Displayr/rhtmlMoonPlot"
     },
     {
         "package": "rhtmlPalmTrees",
@@ -216,7 +216,7 @@
         "url": "https://github.com/Displayr/rhtmlSlowWidget"
     },
     {
-        "package": "rhtmlStatefulWidget",
+        "package": "statefulwidget",
         "url": "https://github.com/Displayr/rhtmlStatefulWidget"
     },
     {
