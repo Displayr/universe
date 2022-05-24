@@ -16,10 +16,6 @@
         "url": "https://github.com/Displayr/flipAPI"
     },
     {
-        "package": "flipCHAID",
-        "url": "https://github.com/Displayr/flipCHAID"
-    },
-    {
         "package": "flipChart",
         "url": "https://github.com/Displayr/flipChart"
     },
@@ -44,20 +40,8 @@
         "url": "https://github.com/Displayr/flipChartTests4"
     },
     {
-        "package": "flipChoice",
-        "url": "https://github.com/Displayr/flipChoice"
-    },
-    {
-        "package": "flipChoiceTests",
-        "url": "https://github.com/Displayr/flipChoiceTests"
-    },
-    {
         "package": "flipData",
         "url": "https://github.com/Displayr/flipData"
-    },
-    {
-        "package": "flipDevTools",
-        "url": "https://github.com/Displayr/flipDevTools"
     },
     {
         "package": "flipDimensionReduction",
@@ -84,10 +68,6 @@
         "url": "https://github.com/Displayr/flipImputation"
     },
     {
-        "package": "flipMaxDiff",
-        "url": "https://github.com/Displayr/flipMaxDiff"
-    },
-    {
         "package": "flipMultivariates",
         "url": "https://github.com/Displayr/flipMultivariates"
     },
@@ -98,10 +78,6 @@
     {
         "package": "flipPlots",
         "url": "https://github.com/Displayr/flipPlots"
-    },
-    {
-        "package": "flipQualtrics",
-        "url": "https://github.com/Displayr/flipQualtrics"
     },
     {
         "package": "flipRegression",
@@ -124,20 +100,12 @@
         "url": "https://github.com/Displayr/flipStartup"
     },
     {
-        "package": "flipStartup",
-        "url": "https://github.com/Displayr/flipStartup"
-    },
-    {
         "package": "flipStatistics",
         "url": "https://github.com/Displayr/flipStatistics"
     },
     {
         "package": "flipTables",
         "url": "https://github.com/Displayr/flipTables"
-    },
-    {
-        "package": "flipTextAnalysis",
-        "url": "https://github.com/Displayr/flipTextAnalysis"
     },
     {
         "package": "flipTime",
@@ -150,10 +118,6 @@
     {
         "package": "flipTrees",
         "url": "https://github.com/Displayr/flipTrees"
-    },
-    {
-        "package": "flipTURF",
-        "url": "https://github.com/Displayr/flipTURF"
     },
     {
         "package": "flipU",
